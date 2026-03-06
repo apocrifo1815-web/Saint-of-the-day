@@ -4,11 +4,11 @@
     "feastDay": "March 6th",
     "birthYear": "1381",
     "deathYear": "1447",
-    "patronOf": ["Childless couples", "Expectant mothers", "Sick children"],
+    "patronOf": ["Childless couples", "Expectant mothers"],
     "biography": "At Ghent, in Flanders, St. Colette, virgin, who at first professed the rule of the Third Order of St. Francis, and afterwards, by the inspiration of the Holy Spirit, restored the primitive discipline in a great number of monasteries of Nuns of the Second Order. As she was adorned with heavenly virtues, and performed innumerable miracles, she was inscribed on the list of the Saints by the Sovereign Pontiff, Pius VII.",
     "quote": "If there be a true way that leads to the Everlasting Kingdom, it is most certainly that of suffering, patiently endured.",
     "quoteSource": "Saint Colette",
-    "prayer": "O Lord, who didst choose St. Colette to be a model of angelic purity and strict penance, grant us the grace to walk in her footsteps and attain to eternal joy. Amen."
+    "prayer": "O Lord, who didst choose St. Colette to be a model of angelic purity, grant us the grace to walk in her footsteps. Amen."
   },
   "03-07": {
     "name": "Saints Perpetua and Felicity",
@@ -16,9 +16,53 @@
     "birthYear": "c. 181 AD",
     "deathYear": "203 AD",
     "patronOf": ["Mothers", "Expectant Mothers"],
-    "biography": "At Carthage, in Africa, the birthday of the holy martyrs Perpetua and Felicitas. Felicitas being in the condition of a mother (as the history of their martyrdom relates), she was reserved until she was delivered, according to the laws, that she might suffer with the others. While she was in labor, she groaned under the violence of her pains. One of the keepers said to her: 'If thou art so much affected by these pains, what wilt thou do when thou shalt be cast to the beasts?' She answered: 'Now it is I that suffer; but then there will be another in me, who will suffer for me, because I am to suffer for Him.'",
+    "biography": "At Carthage, in Africa, the birthday of the holy martyrs Perpetua and Felicitas. Felicitas being in the condition of a mother, she was reserved until she was delivered, according to the laws, that she might suffer with the others. While she was in labor, she groaned under the violence of her pains. One of the keepers said to her: 'If thou art so much affected by these pains, what wilt thou do when thou shalt be cast to the beasts?' She answered: 'Now it is I that suffer; but then there will be another in me, who will suffer for me, because I am to suffer for Him.'",
     "quote": "Stand fast in the faith, and love one another.",
     "quoteSource": "Saint Perpetua",
     "prayer": "O God, grant that by the prayers of Saints Perpetua and Felicity we may grow in love for Your name. Amen."
+  },
+  "03-08": {
+    "name": "Saint John of God",
+    "feastDay": "March 8th",
+    "birthYear": "1495",
+    "deathYear": "1550",
+    "patronOf": ["Hospitals", "The Sick", "Nurses"],
+    "biography": "At Granada, in Spain, St. John of God, founder of the Order of the Brothers Hospitallers, celebrated for his mercy to the poor, and his contempt of self. Pope Leo XIII declared him heavenly patron of all hospitals and the infirm.",
+    "quote": "If we looked at God's mercy, we should never cease to do good while we have strength.",
+    "quoteSource": "Saint John of God",
+    "prayer": "Lord, help us to see Your face in the suffering and to serve them with the same love as Saint John of God. Amen."
+  },
+  "03-09": {
+    "name": "Saint Frances of Rome",
+    "feastDay": "March 9th",
+    "birthYear": "1384",
+    "deathYear": "1440",
+    "patronOf": ["Motorists", "Widows"],
+    "biography": "At Rome, St. Frances, a widow, renowned for her noble extraction, holiness of life, and the gift of miracles.",
+    "quote": "A married woman must leave God at the altar to find Him in her household care.",
+    "quoteSource": "Saint Frances of Rome",
+    "prayer": "Saint Frances, teach us to find God in our daily duties and to be guided by His holy angels. Amen."
+  },
+  "03-10": {
+    "name": "The Forty Holy Martyrs of Sebaste",
+    "feastDay": "March 10th",
+    "birthYear": "Unknown",
+    "deathYear": "320 AD",
+    "patronOf": ["Soldiers"],
+    "biography": "At Sebaste, in Armenia, the birthday of forty holy soldiers of Cappadocia. In the time of the emperor Licinius, they were loaded with chains and confined in foul dungeons. After their faces had been beaten with stones, they were exposed naked to the cold during the most rigorous part of winter on a frozen lake, and finally ended their martyrdom by having their limbs crushed.",
+    "quote": "We are forty engaged in this combat; grant, O Lord, that forty may receive the crown.",
+    "quoteSource": "The Forty Martyrs",
+    "prayer": "O Lord, grant us the constancy of the Forty Martyrs, that we may remain faithful to You in all trials. Amen."
+  },
+  "03-11": {
+    "name": "Saint Eulogius of Cordova",
+    "feastDay": "March 11th",
+    "birthYear": "c. 800",
+    "deathYear": "859",
+    "patronOf": ["Writers"],
+    "biography": "At Cordova, St. Eulogius, priest and martyr. In the persecution of the Saracens, he deserved to be associated with the martyrs of that city, because in writing of their combats for the faith, he had envied their happiness. He was finally put to the sword for the name of Christ.",
+    "quote": "The martyr's blood is the seed of the Church.",
+    "quoteSource": "Saint Eulogius",
+    "prayer": "Give us, O Lord, the zeal of Saint Eulogius to witness to the truth of Your Gospel. Amen."
   }
 }
